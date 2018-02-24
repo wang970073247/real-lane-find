@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "/home/w/wang-learn/self-driving/forth-part/project4/friend-project/CarND-Advanced-Lane-Lines-LiJian/examples"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
